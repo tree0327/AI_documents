@@ -12,9 +12,5 @@
 - `04_CNN_이미지눈.ipynb`
 - `05_RNN_기억력.ipynb`
 
-### 02_CNN_심화 (New!)
-CNN(Convolutional Neural Network)의 심화 내용을 다룹니다. (from MultiModal)
-- `01_cnn.ipynb`: CNN 모델 구조 및 실습
-
 ---
-*추후 더 많은 심화 과정이 추가될 예정입니다.*
+*CNN 심화 내용 및 멀티모달 관련 자료는 `11_멀티모달_MultiModal` 섹션으로 이동되었습니다.*
